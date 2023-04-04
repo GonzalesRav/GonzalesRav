@@ -14,7 +14,7 @@ As a front-end developer, I thrive on tackling new challenges that push the boun
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GonzalesRav&icon=2&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GonzalesRav&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
