@@ -4,7 +4,7 @@ As a front-end developer, I thrive on tackling new challenges that push the boun
 
 - 🔭 I’m currently working on Burguer Queen, an Angular web App. 
 - 🌱 I’m currently learning Typescript. 
-- 😄 Pronouns: Any pronouns. 
+- 😄 Any pronouns. 
 - ⚡ Fun fact: I'm also a geographer obssessed with Fungus and mu-shroom cultivation.🍄
 
 
