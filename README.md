@@ -12,6 +12,7 @@ As a front-end developer, I thrive on tackling new challenges that push the boun
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=GonzalesRav&icon=2&color=8)](https://visitcount.itsvg.in)
 
