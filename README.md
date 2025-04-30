@@ -1,9 +1,14 @@
 
 # 💫 About Me:
-As a front-end developer, I thrive on tackling new challenges that push the boundaries of my creativity and problem-solving skills. I'm fascinated by the constantly evolving role of technology in our everyday lives and how it's transforming the way we live, work, and interact with the world around us, and this is where I want to contribute with my passion for crafting elegant, intuitive and highly functional websites. With a strong foundation in HTML, CSS, and JavaScript. I'm constantly exploring new tools and frameworks to expand my skill set and stay up-to-date with the latest trends in web development. Whether I'm building a responsive website from scratch or optimizing an existing codebase, I approach each project with a user-centric mindset and a commitment to delivering high-quality, efficient, and scalable solutions.
+Hi! I'm a Geographer turned Web Developer, Passionate about developing web-based solutions that integrate spatial data with modern technologies, making them easy to use, understand, and accessible to everyone. I love working on projects where maps, data and code come together to solve meaningful problems.
 
-- 🔭 I’m currently working on Burguer Queen 🍔, an Angular web App. 
-- 🌱 I’m currently learning Typescript. 
+I started in front-end development with HTML, CSS, and JavaScript, and over time expanded into TypeScript, PHP, and SQL, while also exploring the world of spatial data. I’m certified in Data Science by Google, which helps me dive deeper into analysis and visualization, especially when it involves geographic patterns and decision-making.
+
+These days, I’m focused on creating open, web-based projects that mix GIS, web development, and data analysis—like water harvesting suitability models, spatial dashboards, and interactive maps.
+
+Always learning, always building, and always looking for ways to blend geography with tech in smart, practical ways 🌍💻
+
+- 🔭 I’m currently working on GIS Web Development. 
 - 😄 Any pronouns. 🧑🏻‍💻
 - ⚡ Fun fact: I'm also a geographer obsessed with Fungus and mu-shroom cultivation.🍄
 
